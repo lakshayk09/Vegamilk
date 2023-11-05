@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../UDEMY/13_Museum_Of_Candy"
+		},
+		{
+			"path": "../UDEMY/PriceTable"
+		},
+		{
+			"path": "../angular"
+		},
+		{
+			"path": "../BEFORE MTE"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "vegamilk"
+	}
+}
