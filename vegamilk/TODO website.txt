@@ -1,0 +1,4 @@
+angular
+click > scroll to section functionality
+reviews horizontal scroll
+features border fix
