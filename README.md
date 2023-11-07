@@ -1,1 +1,1 @@
-[I am Vegamilk link](https://vegamilk.netlify.app/)
+[Vegamilk Website link](https://vegamilk.netlify.app/)
